@@ -1,0 +1,22 @@
+.cards-container {
+    margin-left:  265px;
+}
+
+.allCards {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    text-align: center;
+    width: 285px;
+    height: 230px;
+    float: left;
+}
+
+.allCards img {
+    margin: 5px;
+    padding: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    max-height: 300px;
+    max-width: 300px;
+    background-color: white;
+}

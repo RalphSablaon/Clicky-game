@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "name": "Ryu",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/6/6d/ORyu.png"
+    },
+    {
+      "id": 2,
+      "name": "E. Honda",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/3/38/OEHonda.png"
+    },
+    {
+      "id": 3,
+      "name": "Blanka",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/c/ce/OBlanka.png"
+    },
+    {
+      "id": 4,
+      "name": "Guile",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/8/85/OGuile.png"
+    },
+    {
+      "id": 5,
+      "name": "T. Hawk",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/b/b3/OTHawk.png"
+    },
+    {
+      "id": 6,
+      "name": "Fei Long",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/a/a3/FeiLong.png"
+    },
+    {
+      "id": 7,
+      "name": "Balrog",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/7/77/OBalrog.png"
+    },
+    {
+      "id": 8,
+      "name": "Sagat",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/a/a9/OSagat.png"
+    },
+    {
+      "id": 9,
+      "name": "Ken",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/c/ca/OKen.png"
+    },
+    {
+      "id": 10,
+      "name": "Chun-Li",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/7/70/OChunLi.png"
+    },
+    {
+      "id": 11,
+      "name": "Zangief",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/0/0e/OZangief.png"
+    },
+    {
+      "id": 12,
+      "name": "Dhalsim",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/7/79/ODhalsim.png"
+    },
+    {
+      "id": 13,
+      "name": "Cammy",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/4/48/OCammy.png"
+    },
+    {
+      "id": 14,
+      "name": "Deejay",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/1/11/ODeeJay.png"
+    },
+    {
+      "id": 15,
+      "name": "Vega",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/c/cc/OVega.png"
+    },
+    {
+      "id": 16,
+      "name": "M. Bison",
+      "clicked": false,
+      "image":
+        "http://wiki.shoryuken.com/images/f/f3/OMBison.png"
+    }
+  ]
+  
