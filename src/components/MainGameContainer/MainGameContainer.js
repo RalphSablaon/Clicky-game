@@ -6,7 +6,7 @@ import "./MainGameContainer.css";
 class MainGameContainer extends Component {
 	state = {
 		images,
-		message: "Click one of the images to begin!",
+		message: "Click one of the fighters to begin!",
 		score: 0,
 		topScore: 0
 	};
