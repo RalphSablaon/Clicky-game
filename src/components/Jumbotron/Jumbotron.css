@@ -1,6 +1,7 @@
 /*JUMBOTRON*/
 .jumbotron {
-	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1n5uDvOwXtjUKFkZBeBy-kfkohJp7Tvd7lBEh1yg-ygI51Lf&s");
+	/* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1n5uDvOwXtjUKFkZBeBy-kfkohJp7Tvd7lBEh1yg-ygI51Lf&s"); */
+	background-image: url("http://slateman.net/images/gaming/backgrounds/sf2hf-ryu.gif");
     background-blend-mode: lighten;
     background-repeat: no-repeat;
 	background-position: bottom;
@@ -25,7 +26,6 @@
 	font-size: 16px;
 	font-weight: 500;
 	text-transform: uppercase;
-	padding-bottom: 10px;
 	margin-left: 75px;
 	margin-right: 75px;
 }
